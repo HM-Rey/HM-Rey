@@ -1,9 +1,11 @@
-# <center>HM-Lay❀ </center> 
+# <center>HM-Lay❀ 
 
-  <center>❀HM-Lay(hoshimiya-lay)❀</center>
+</center> <img src="icon.png" style="min-width:300px; width:30%">
+  <center>❀HM-Lay(hoshimiya-lay)❀</center> 
   <br>
   <center>junior high school student in Taiwan.</center>
-  
+
+
   -----
 
 ### about HM-Lay: 
