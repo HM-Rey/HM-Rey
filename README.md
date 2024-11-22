@@ -25,3 +25,4 @@
   - windows
 
 ### ♪ Others
+  <center>開発ing...</center>
