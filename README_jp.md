@@ -1,9 +1,10 @@
+日本語 | [English](README.md) | 繁體中文
+
 # <center>HM-Lay❀ 
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
   <br>
-  日本語 | [English](README.md) | 繁體中文
-  <br>
+
   <center>❀HM-Lay(星宮レイ)❀</center> 
   <br>
   <center>台湾の高中/高校生ww </center>
