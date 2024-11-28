@@ -1,4 +1,4 @@
-[日本語](README_jp.md) | English | 繁體中文
+[日本語](README_jp.md) | English | [繁體中文](README_zh-tw.md)
 # <center>HM-Lay❀ 
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
