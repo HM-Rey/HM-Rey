@@ -17,7 +17,7 @@
 
 - ⚜︎ Main Projects
   - SYP 桜夢計画(sakura.yume.project)
-  --› HMU AI 開発
+  --› HMU AI exploitation
 
 - ❄ Learning Experience
   - 2024/9 - now
@@ -26,4 +26,4 @@
   - windows
 
 ### ♪ Others
-  <center>開発ing...</center>
+  <center>Under development</center>
