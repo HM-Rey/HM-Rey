@@ -2,7 +2,7 @@
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
   <br>
-  日本語 | [English](https://github.com/HM-Lay/HM-Lay/blob/main/README.md) | 繁體中文
+  日本語 | [English](README.md) | 繁體中文
   <br>
   <center>❀HM-Lay(星宮レイ)❀</center> 
   <br>
