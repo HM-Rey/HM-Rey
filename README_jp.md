@@ -1,4 +1,4 @@
-日本語 | [English](README.md) | 繁體中文
+日本語 | [English](README.md) | [繁體中文](README_zh-tw.md)
 
 # <center>HM-Lay❀ 
 
