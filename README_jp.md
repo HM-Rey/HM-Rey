@@ -13,7 +13,7 @@
   -----
 
 ### に関して : 
-- 🅻 言語
+- 🅻 言語 :
   - Javascript 
   - Nodejs (CommandJS)
   - Html,css
