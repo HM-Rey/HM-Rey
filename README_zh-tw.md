@@ -1,5 +1,5 @@
 [日本語](README_jp.md) | [English](README.md) | 繁體中文
-# <center>HM-Lay❀ 
+# <center>HM-Rey❀ 
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
   <center>❀HM-Lay(星宮零)❀</center> 
@@ -9,7 +9,7 @@
 
   -----
 
-### 關於 HM-Lay: 
+### 關於 HM-Rey: 
 - 🅻 語言 :
   - Javascript 
   - Nodejs (CommandJS)
