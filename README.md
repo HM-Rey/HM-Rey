@@ -9,7 +9,7 @@
 
   -----
 
-### about HM-Lay: 
+### about HM-Rey: 
 - 🅻 Languages
   - Javascript 
   - Nodejs (CommandJS)
