@@ -1,11 +1,11 @@
 日本語 | [English](README.md) | [繁體中文](README_zh-tw.md)
 
-# <center>HM-Lay❀ 
+# <center>HM-Rey❀ 
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
   <br>
 
-  <center>❀HM-Lay(星宮レイ)❀</center> 
+  <center>❀HM-Rey(星宮レイ)❀</center> 
   <br>
   <center>台湾の高中/高校生ww </center>
   <center>現在まだ日本語を勉強しているところです </center>
