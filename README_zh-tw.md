@@ -2,7 +2,7 @@
 # <center>HM-Rey❀ 
 
 </center> <img src="SYP-logo.png" style="min-width:300px; width:30%">
-  <center>❀HM-Lay(星宮零)❀</center> 
+  <center>❀HM-Rey(星宮零)❀</center> 
   <br>
   <center>台灣的高中生</center>
   <center>日文學習ing</center>
