@@ -11,8 +11,7 @@
 
 ### 關於 HM-Rey: 
 - 🅻 語言 :
-  - Javascript 
-  - Nodejs (CommandJS)
+  - Nodejs (CommandJS ES6)
   - Html,css
 
 - ⚜︎ 主要計畫 :
