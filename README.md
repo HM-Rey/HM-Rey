@@ -11,8 +11,7 @@
 
 ### about HM-Rey: 
 - 🅻 Languages
-  - Javascript 
-  - Nodejs (CommandJS)
+  - Nodejs (CommandJS ES6)
   - Html,css
 
 - ⚜︎ Main Projects
