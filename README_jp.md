@@ -14,8 +14,7 @@
 
 ### に関して : 
 - 🅻 言語 :
-  - Javascript 
-  - Nodejs (CommandJS)
+  - Nodejs (CommandJS ES6)
   - Html,css
 
 - ⚜︎ 主要計画 :
